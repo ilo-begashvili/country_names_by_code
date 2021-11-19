@@ -1,0 +1,1626 @@
+[
+  {
+    "calling_code": "995",
+    "code": "GE",
+    "name": "Georgia",
+    "ka_name": "საქართველო",
+    "ru_name": "Грузия"
+  },
+  {
+    "calling_code": "355",
+    "code": "AL",
+    "name": "Albania",
+    "ka_name": "ალბანეთი",
+    "ru_name": "Албания"
+  },
+  {
+    "calling_code": "213",
+    "code": "DZ",
+    "name": "Algeria",
+    "ka_name": "ალჟირი",
+    "ru_name": "Алжир"
+  },
+  {
+    "calling_code": "1",
+    "code": "AS",
+    "name": "American Samoa",
+    "ka_name": "ამერიკის სამოა",
+    "ru_name": "Американское Самоа"
+  },
+  {
+    "calling_code": "376",
+    "code": "AD",
+    "name": "Andorra",
+    "ka_name": "ანდორა",
+    "ru_name": "Андорра"
+  },
+  {
+    "calling_code": "244",
+    "code": "AO",
+    "name": "Angola",
+    "ka_name": "ანგოლა",
+    "ru_name": "Ангола"
+  },
+  {
+    "calling_code": "1",
+    "code": "AI",
+    "name": "Anguilla",
+    "ka_name": "ანგილია",
+    "ru_name": "Ангилья"
+  },
+  {
+    "calling_code": "1",
+    "code": "AG",
+    "name": "Antigua",
+    "ka_name": "ანტიგუა და ბარბუდა",
+    "ru_name": "Антигуа и Барбуда"
+  },
+  {
+    "calling_code": "54",
+    "code": "AR",
+    "name": "Argentina",
+    "ka_name": "არგენტინა",
+    "ru_name": "Аргентина"
+  },
+  {
+    "calling_code": "374",
+    "code": "AM",
+    "name": "Armenia",
+    "ka_name": "სომხეთი",
+    "ru_name": "Армения"
+  },
+  {
+    "calling_code": "297",
+    "code": "AW",
+    "name": "Aruba",
+    "ka_name": "არუბა",
+    "ru_name": "Аруба"
+  },
+  {
+    "calling_code": "61",
+    "code": "AU",
+    "name": "Australia",
+    "ka_name": "ავსტრალია",
+    "ru_name": "Австралия"
+  },
+  {
+    "calling_code": "43",
+    "code": "AT",
+    "name": "Austria",
+    "ka_name": "ავსტრია",
+    "ru_name": "Австрия"
+  },
+  {
+    "calling_code": "994",
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "ka_name": "აზერბაიჯანი",
+    "ru_name": "Азербайджан"
+  },
+  {
+    "calling_code": "973",
+    "code": "BH",
+    "name": "Bahrain",
+    "ka_name": "ბაჰრეინი",
+    "ru_name": "Бахрейн"
+  },
+  {
+    "calling_code": "880",
+    "code": "BD",
+    "name": "Bangladesh",
+    "ka_name": "ბანგლადეში",
+    "ru_name": "Бангладеш"
+  },
+  {
+    "calling_code": "1",
+    "code": "BB",
+    "name": "Barbados",
+    "ka_name": "ბარბადოსი",
+    "ru_name": "Барбадос"
+  },
+  {
+    "calling_code": "375",
+    "code": "BY",
+    "name": "Belarus",
+    "ka_name": "ბელარუსი",
+    "ru_name": "Белоруссия"
+  },
+  {
+    "calling_code": "32",
+    "code": "BE",
+    "name": "Belgium",
+    "ka_name": "ბელგია",
+    "ru_name": "Бельгия"
+  },
+  {
+    "calling_code": "501",
+    "code": "BZ",
+    "name": "Belize",
+    "ka_name": "ბელიზი",
+    "ru_name": "Белиз"
+  },
+  {
+    "calling_code": "229",
+    "code": "BJ",
+    "name": "Benin",
+    "ka_name": "ბენინი",
+    "ru_name": "Бенин"
+  },
+  {
+    "calling_code": "1",
+    "code": "BM",
+    "name": "Bermuda",
+    "ka_name": "ბერმუდის კუნძულები",
+    "ru_name": "Бермуды"
+  },
+  {
+    "calling_code": "975",
+    "code": "BT",
+    "name": "Bhutan",
+    "ka_name": "ბჰუტანი",
+    "ru_name": "Бутан"
+  },
+  {
+    "calling_code": "591",
+    "code": "BO",
+    "name": "Bolivia",
+    "ka_name": "ბოლივია",
+    "ru_name": "Боливия"
+  },
+  {
+    "calling_code": "387",
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "ka_name": "ბოსნია და ჰერცეგოვინა",
+    "ru_name": "Босния и Герцеговина"
+  },
+  {
+    "calling_code": "267",
+    "code": "BW",
+    "name": "Botswana",
+    "ka_name": "ბოტსვანა",
+    "ru_name": "Ботсвана"
+  },
+  {
+    "calling_code": "55",
+    "code": "BR",
+    "name": "Brazil",
+    "ka_name": "ბრაზილია",
+    "ru_name": "Бразилия"
+  },
+  {
+    "calling_code": "246",
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "ka_name": "ბრიტანეთის ინდოეთის ოკეანის ტერიტორია",
+    "ru_name": "Британская территория в Индийском океане"
+  },
+  {
+    "calling_code": "1",
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "ka_name": "ვირჯინის კუნძულები (ბრიტანეთის)",
+    "ru_name": "Виргинские Острова (Великобритания)"
+  },
+  {
+    "calling_code": "673",
+    "code": "BN",
+    "name": "Brunei",
+    "ka_name": "ბრუნეი დარუსალამი",
+    "ru_name": "Бруней"
+  },
+  {
+    "calling_code": "359",
+    "code": "BG",
+    "name": "Bulgaria",
+    "ka_name": "ბულგარეთი",
+    "ru_name": "Болгария"
+  },
+  {
+    "calling_code": "226",
+    "code": "BF",
+    "name": "Burkina Faso",
+    "ka_name": "ბურკინა-ფასო",
+    "ru_name": "Буркина-Фасо"
+  },
+  {
+    "calling_code": "95",
+    "code": "MM",
+    "name": "Burma Myanmar",
+    "ka_name": "მიანმარი",
+    "ru_name": "Мьянма"
+  },
+  {
+    "calling_code": "257",
+    "code": "BI",
+    "name": "Burundi",
+    "ka_name": "ბურუნდი",
+    "ru_name": "Бурунди"
+  },
+  {
+    "calling_code": "855",
+    "code": "KH",
+    "name": "Cambodia",
+    "ka_name": "კამბოჯა",
+    "ru_name": "Камбоджа"
+  },
+  {
+    "calling_code": "237",
+    "code": "CM",
+    "name": "Cameroon",
+    "ka_name": "კამერუნი",
+    "ru_name": "Камерун"
+  },
+  {
+    "calling_code": "1",
+    "code": "CA",
+    "name": "Canada",
+    "ka_name": "კანადა",
+    "ru_name": "Канада"
+  },
+  {
+    "calling_code": "238",
+    "code": "CV",
+    "name": "Cape Verde",
+    "ka_name": "კაბო-ვერდე",
+    "ru_name": "Кабо-Верде"
+  },
+  {
+    "calling_code": "1",
+    "code": "KY",
+    "name": "Cayman Islands",
+    "ka_name": "კაიმანის კუნძულები",
+    "ru_name": "Острова Кайман"
+  },
+  {
+    "calling_code": "236",
+    "code": "CF",
+    "name": "Central African Republic",
+    "ka_name": "ცენტრალური აფრიკის რესპუბლიკა",
+    "ru_name": "ЦАР"
+  },
+  {
+    "calling_code": "235",
+    "code": "TD",
+    "name": "Chad",
+    "ka_name": "ჩადი",
+    "ru_name": "Чад"
+  },
+  {
+    "calling_code": "56",
+    "code": "CL",
+    "name": "Chile",
+    "ka_name": "ჩილე",
+    "ru_name": "Чили"
+  },
+  {
+    "calling_code": "86",
+    "code": "CN",
+    "name": "China",
+    "ka_name": "ჩინეთი",
+    "ru_name": "Китай"
+  },
+  {
+    "calling_code": "57",
+    "code": "CO",
+    "name": "Colombia",
+    "ka_name": "კოლუმბია",
+    "ru_name": "Колумбия"
+  },
+  {
+    "calling_code": "269",
+    "code": "KM",
+    "name": "Comoros",
+    "ka_name": "კომორის კუნძულების კავშირი",
+    "ru_name": "Коморы"
+  },
+  {
+    "calling_code": "682",
+    "code": "CK",
+    "name": "Cook Islands",
+    "ka_name": "კუკის კუნძულები",
+    "ru_name": "Острова Кука"
+  },
+  {
+    "calling_code": "506",
+    "code": "CR",
+    "name": "Costa Rica",
+    "ka_name": "კოსტა-რიკა",
+    "ru_name": "Коста-Рика"
+  },
+  {
+    "calling_code": "225",
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "ka_name": "კოტ-დ’ივუარი",
+    "ru_name": "Кот-д’Ивуар"
+  },
+  {
+    "calling_code": "385",
+    "code": "HR",
+    "name": "Croatia",
+    "ka_name": "ხორვატია",
+    "ru_name": "Хорватия"
+  },
+  {
+    "calling_code": "53",
+    "code": "CU",
+    "name": "Cuba",
+    "ka_name": "კუბა",
+    "ru_name": "Куба"
+  },
+  {
+    "calling_code": "357",
+    "code": "CY",
+    "name": "Cyprus",
+    "ka_name": "კვიპროსი",
+    "ru_name": "Кипр"
+  },
+  {
+    "calling_code": "420",
+    "code": "CZ",
+    "name": "Czech Republic",
+    "ka_name": "ჩეხეთი",
+    "ru_name": "Чехия"
+  },
+  {
+    "calling_code": "243",
+    "code": "CD",
+    "name": "Democratic Republic of Congo",
+    "ka_name": "კონგოს დემოკრატიული რესპუბლიკა",
+    "ru_name": "ДР Конго"
+  },
+  {
+    "calling_code": "45",
+    "code": "DK",
+    "name": "Denmark",
+    "ka_name": "დანია",
+    "ru_name": "Дания"
+  },
+  {
+    "calling_code": "253",
+    "code": "DJ",
+    "name": "Djibouti",
+    "ka_name": "ჯიბუტი",
+    "ru_name": "Джибути"
+  },
+  {
+    "calling_code": "1",
+    "code": "DM",
+    "name": "Dominica",
+    "ka_name": "დომინიკა",
+    "ru_name": "Доминика"
+  },
+  {
+    "calling_code": "1",
+    "code": "DO",
+    "name": "Dominican Republic",
+    "ka_name": "დომინიკელთა რესპუბლიკა",
+    "ru_name": "Доминиканская Республика"
+  },
+  {
+    "calling_code": "593",
+    "code": "EC",
+    "name": "Ecuador",
+    "ka_name": "ეკვადორი",
+    "ru_name": "Эквадор"
+  },
+  {
+    "calling_code": "20",
+    "code": "EG",
+    "name": "Egypt",
+    "ka_name": "ეგვიპტე",
+    "ru_name": "Египет"
+  },
+  {
+    "calling_code": "503",
+    "code": "SV",
+    "name": "El Salvador",
+    "ka_name": "სალვადორი",
+    "ru_name": "Сальвадор"
+  },
+  {
+    "calling_code": "240",
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "ka_name": "ეკვატორული გვინეა",
+    "ru_name": "Экваториальная Гвинея"
+  },
+  {
+    "calling_code": "291",
+    "code": "ER",
+    "name": "Eritrea",
+    "ka_name": "ერიტრეა",
+    "ru_name": "Эритрея"
+  },
+  {
+    "calling_code": "372",
+    "code": "EE",
+    "name": "Estonia",
+    "ka_name": "ესტონეთი",
+    "ru_name": "Эстония"
+  },
+  {
+    "calling_code": "251",
+    "code": "ET",
+    "name": "Ethiopia",
+    "ka_name": "ეთიოპია",
+    "ru_name": "Эфиопия"
+  },
+  {
+    "calling_code": "500",
+    "code": "FK",
+    "name": "Falkland Islands",
+    "ka_name": "ფოლკლენდის კუნძულები (მალვინები)",
+    "ru_name": "Фолклендские острова"
+  },
+  {
+    "calling_code": "298",
+    "code": "FO",
+    "name": "Faroe Islands",
+    "ka_name": "ფარერის კუნძულები",
+    "ru_name": "Фарерские острова"
+  },
+  {
+    "calling_code": "691",
+    "code": "FM",
+    "name": "Federated States of Micronesia",
+    "ka_name": "მიკრონეზიის ფედერაციული შტატები",
+    "ru_name": "Микронезия"
+  },
+  {
+    "calling_code": "679",
+    "code": "FJ",
+    "name": "Fiji",
+    "ka_name": "ფიჯი",
+    "ru_name": "Фиджи"
+  },
+  {
+    "calling_code": "358",
+    "code": "FI",
+    "name": "Finland",
+    "ka_name": "ფინეთი",
+    "ru_name": "Финляндия"
+  },
+  {
+    "calling_code": "33",
+    "code": "FR",
+    "name": "France",
+    "ka_name": "საფრანგეთი",
+    "ru_name": "Франция"
+  },
+  {
+    "calling_code": "594",
+    "code": "GF",
+    "name": "French Guiana",
+    "ka_name": "საფრანგეთის გვიანა",
+    "ru_name": "Гвиана"
+  },
+  {
+    "calling_code": "689",
+    "code": "PF",
+    "name": "French Polynesia",
+    "ka_name": "საფრანგეთის პოლინეზია",
+    "ru_name": "Французская Полинезия"
+  },
+  {
+    "calling_code": "241",
+    "code": "GA",
+    "name": "Gabon",
+    "ka_name": "გაბონი",
+    "ru_name": "Габон"
+  },
+  {
+    "calling_code": "49",
+    "code": "DE",
+    "name": "Germany",
+    "ka_name": "გერმანია",
+    "ru_name": "Германия"
+  },
+  {
+    "calling_code": "233",
+    "code": "GH",
+    "name": "Ghana",
+    "ka_name": "განა",
+    "ru_name": "Гана"
+  },
+  {
+    "calling_code": "350",
+    "code": "GI",
+    "name": "Gibraltar",
+    "ka_name": "გიბრალტარი",
+    "ru_name": "Гибралтар"
+  },
+  {
+    "calling_code": "30",
+    "code": "GR",
+    "name": "Greece",
+    "ka_name": "საბერძნეთი",
+    "ru_name": "Греция"
+  },
+  {
+    "calling_code": "299",
+    "code": "GL",
+    "name": "Greenland",
+    "ka_name": "გრენლანდია",
+    "ru_name": "Гренландия"
+  },
+  {
+    "calling_code": "1",
+    "code": "GD",
+    "name": "Grenada",
+    "ka_name": "გრენადა",
+    "ru_name": "Гренада"
+  },
+  {
+    "calling_code": "590",
+    "code": "GP",
+    "name": "Guadeloupe",
+    "ka_name": "გვადელუპა",
+    "ru_name": "Гваделупа"
+  },
+  {
+    "calling_code": "1",
+    "code": "GU",
+    "name": "Guam",
+    "ka_name": "გუამი",
+    "ru_name": "Гуам"
+  },
+  {
+    "calling_code": "502",
+    "code": "GT",
+    "name": "Guatemala",
+    "ka_name": "გვატემალა",
+    "ru_name": "Гватемала"
+  },
+  {
+    "calling_code": "224",
+    "code": "GN",
+    "name": "Guinea",
+    "ka_name": "გვინეა",
+    "ru_name": "Гвинея"
+  },
+  {
+    "calling_code": "245",
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "ka_name": "გვინეა-ბისაუ",
+    "ru_name": "Гвинея-Бисау"
+  },
+  {
+    "calling_code": "592",
+    "code": "GY",
+    "name": "Guyana",
+    "ka_name": "გაიანა",
+    "ru_name": "Гайана"
+  },
+  {
+    "calling_code": "509",
+    "code": "HT",
+    "name": "Haiti",
+    "ka_name": "ჰაიტი",
+    "ru_name": "Гаити"
+  },
+  {
+    "calling_code": "504",
+    "code": "HN",
+    "name": "Honduras",
+    "ka_name": "ჰონდურასი",
+    "ru_name": "Гондурас"
+  },
+  {
+    "calling_code": "852",
+    "code": "HK",
+    "name": "Hong Kong",
+    "ka_name": "ჰონგ-კონგი",
+    "ru_name": "Гонконг"
+  },
+  {
+    "calling_code": "36",
+    "code": "HU",
+    "name": "Hungary",
+    "ka_name": "უნგრეთი",
+    "ru_name": "Венгрия"
+  },
+  {
+    "calling_code": "354",
+    "code": "IS",
+    "name": "Iceland",
+    "ka_name": "ისლანდია",
+    "ru_name": "Исландия"
+  },
+  {
+    "calling_code": "91",
+    "code": "IN",
+    "name": "India",
+    "ka_name": "ინდოეთი",
+    "ru_name": "Индия"
+  },
+  {
+    "calling_code": "62",
+    "code": "ID",
+    "name": "Indonesia",
+    "ka_name": "ინდონეზია",
+    "ru_name": "Индонезия"
+  },
+  {
+    "calling_code": "98",
+    "code": "IR",
+    "name": "Iran",
+    "ka_name": "ირანის მუსულმანური რესპუბლიკა",
+    "ru_name": "Иран"
+  },
+  {
+    "calling_code": "964",
+    "code": "IQ",
+    "name": "Iraq",
+    "ka_name": "ერაყი",
+    "ru_name": "Ирак"
+  },
+  {
+    "calling_code": "353",
+    "code": "IE",
+    "name": "Ireland",
+    "ka_name": "ირლანდია",
+    "ru_name": "Ирландия"
+  },
+  {
+    "calling_code": "972",
+    "code": "IL",
+    "name": "Israel",
+    "ka_name": "ისრაელი",
+    "ru_name": "Израиль"
+  },
+  {
+    "calling_code": "39",
+    "code": "IT",
+    "name": "Italy",
+    "ka_name": "იტალია",
+    "ru_name": "Италия"
+  },
+  {
+    "calling_code": "1",
+    "code": "JM",
+    "name": "Jamaica",
+    "ka_name": "იამაიკა",
+    "ru_name": "Ямайка"
+  },
+  {
+    "calling_code": "81",
+    "code": "JP",
+    "name": "Japan",
+    "ka_name": "იაპონია",
+    "ru_name": "Япония"
+  },
+  {
+    "calling_code": "962",
+    "code": "JO",
+    "name": "Jordan",
+    "ka_name": "იორდანია",
+    "ru_name": "Иордания"
+  },
+  {
+    "calling_code": "7",
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "ka_name": "ყაზახეთი",
+    "ru_name": "Казахстан"
+  },
+  {
+    "calling_code": "254",
+    "code": "KE",
+    "name": "Kenya",
+    "ka_name": "კენია",
+    "ru_name": "Кения"
+  },
+  {
+    "calling_code": "686",
+    "code": "KI",
+    "name": "Kiribati",
+    "ka_name": "კირიბატი",
+    "ru_name": "Кирибати"
+  },
+  {
+    "calling_code": "381",
+    "code": "XK",
+    "name": "Kosovo",
+    "ka_name": "",
+    "ru_name": ""
+  },
+  {
+    "calling_code": "965",
+    "code": "KW",
+    "name": "Kuwait",
+    "ka_name": "ქუვეითი",
+    "ru_name": "Кувейт"
+  },
+  {
+    "calling_code": "996",
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "ka_name": "ყირგიზეთი",
+    "ru_name": "Киргизия"
+  },
+  {
+    "calling_code": "856",
+    "code": "LA",
+    "name": "Laos",
+    "ka_name": "ლაოსის სახალხო დემოკრატიული რესპუბლიკა",
+    "ru_name": "Лаос"
+  },
+  {
+    "calling_code": "371",
+    "code": "LV",
+    "name": "Latvia",
+    "ka_name": "ლატვია",
+    "ru_name": "Латвия"
+  },
+  {
+    "calling_code": "961",
+    "code": "LB",
+    "name": "Lebanon",
+    "ka_name": "ლიბანი",
+    "ru_name": "Ливан"
+  },
+  {
+    "calling_code": "266",
+    "code": "LS",
+    "name": "Lesotho",
+    "ka_name": "ლესოთო",
+    "ru_name": "Лесото"
+  },
+  {
+    "calling_code": "231",
+    "code": "LR",
+    "name": "Liberia",
+    "ka_name": "ლიბერია",
+    "ru_name": "Либерия"
+  },
+  {
+    "calling_code": "218",
+    "code": "LY",
+    "name": "Libya",
+    "ka_name": "ლიბიის არაბული ჯამაჰირია",
+    "ru_name": "Ливия"
+  },
+  {
+    "calling_code": "423",
+    "code": "LI",
+    "name": "Liechtenstein",
+    "ka_name": "ლიხტენშტაინი",
+    "ru_name": "Лихтенштейн"
+  },
+  {
+    "calling_code": "370",
+    "code": "LT",
+    "name": "Lithuania",
+    "ka_name": "ლიეტუვა",
+    "ru_name": "Литва"
+  },
+  {
+    "calling_code": "352",
+    "code": "LU",
+    "name": "Luxembourg",
+    "ka_name": "ლუქსემბურგი",
+    "ru_name": "Люксембург"
+  },
+  {
+    "calling_code": "853",
+    "code": "MO",
+    "name": "Macau",
+    "ka_name": "მაკაო",
+    "ru_name": "Макао"
+  },
+  {
+    "calling_code": "389",
+    "code": "MK",
+    "name": "Macedonia",
+    "ka_name": "ჩრდილოეთი მაკედონია",
+    "ru_name": "Северная Македония"
+  },
+  {
+    "calling_code": "261",
+    "code": "MG",
+    "name": "Madagascar",
+    "ka_name": "მადაგასკარი",
+    "ru_name": "Мадагаскар"
+  },
+  {
+    "calling_code": "265",
+    "code": "MW",
+    "name": "Malawi",
+    "ka_name": "მალავი",
+    "ru_name": "Малави"
+  },
+  {
+    "calling_code": "60",
+    "code": "MY",
+    "name": "Malaysia",
+    "ka_name": "მალაიზია",
+    "ru_name": "Малайзия"
+  },
+  {
+    "calling_code": "960",
+    "code": "MV",
+    "name": "Maldives",
+    "ka_name": "მალდივი",
+    "ru_name": "Мальдивы"
+  },
+  {
+    "calling_code": "223",
+    "code": "ML",
+    "name": "Mali",
+    "ka_name": "მალი",
+    "ru_name": "Мали"
+  },
+  {
+    "calling_code": "356",
+    "code": "MT",
+    "name": "Malta",
+    "ka_name": "მალტა",
+    "ru_name": "Мальта"
+  },
+  {
+    "calling_code": "692",
+    "code": "MH",
+    "name": "Marshall Islands",
+    "ka_name": "მარშალის კუნძულები",
+    "ru_name": "Маршалловы Острова"
+  },
+  {
+    "calling_code": "596",
+    "code": "MQ",
+    "name": "Martinique",
+    "ka_name": "მარტინიკა",
+    "ru_name": "Мартиника"
+  },
+  {
+    "calling_code": "222",
+    "code": "MR",
+    "name": "Mauritania",
+    "ka_name": "მავრიტანია",
+    "ru_name": "Мавритания"
+  },
+  {
+    "calling_code": "230",
+    "code": "MU",
+    "name": "Mauritius",
+    "ka_name": "მავრიკი",
+    "ru_name": "Маврикий"
+  },
+  {
+    "calling_code": "262",
+    "code": "YT",
+    "name": "Mayotte",
+    "ka_name": "მაიოტა",
+    "ru_name": "Майотта"
+  },
+  {
+    "calling_code": "52",
+    "code": "MX",
+    "name": "Mexico",
+    "ka_name": "მექსიკა",
+    "ru_name": "Мексика"
+  },
+  {
+    "calling_code": "373",
+    "code": "MD",
+    "name": "Moldova",
+    "ka_name": "მოლდოვას რესპუბლიკა",
+    "ru_name": "Молдавия"
+  },
+  {
+    "calling_code": "377",
+    "code": "MC",
+    "name": "Monaco",
+    "ka_name": "მონაკო",
+    "ru_name": "Монако"
+  },
+  {
+    "calling_code": "976",
+    "code": "MN",
+    "name": "Mongolia",
+    "ka_name": "მონღოლეთი",
+    "ru_name": "Монголия"
+  },
+  {
+    "calling_code": "382",
+    "code": "ME",
+    "name": "Montenegro",
+    "ka_name": "მონტენეგრო",
+    "ru_name": "Черногория"
+  },
+  {
+    "calling_code": "1",
+    "code": "MS",
+    "name": "Montserrat",
+    "ka_name": "მონსერატი",
+    "ru_name": "Монтсеррат"
+  },
+  {
+    "calling_code": "212",
+    "code": "MA",
+    "name": "Morocco",
+    "ka_name": "მაროკო",
+    "ru_name": "Марокко"
+  },
+  {
+    "calling_code": "258",
+    "code": "MZ",
+    "name": "Mozambique",
+    "ka_name": "მოზამბიკი",
+    "ru_name": "Мозамбик"
+  },
+  {
+    "calling_code": "264",
+    "code": "NA",
+    "name": "Namibia",
+    "ka_name": "ნამიბია",
+    "ru_name": "Намибия"
+  },
+  {
+    "calling_code": "674",
+    "code": "NR",
+    "name": "Nauru",
+    "ka_name": "ნაურუ",
+    "ru_name": "Науру"
+  },
+  {
+    "calling_code": "977",
+    "code": "NP",
+    "name": "Nepal",
+    "ka_name": "ნეპალი",
+    "ru_name": "Непал"
+  },
+  {
+    "calling_code": "31",
+    "code": "NL",
+    "name": "Netherlands",
+    "ka_name": "ნიდერლანდები",
+    "ru_name": "Нидерланды"
+  },
+  {
+    "calling_code": "599",
+    "code": "AN",
+    "name": "Netherlands Antilles",
+    "ka_name": "",
+    "ru_name": ""
+  },
+  {
+    "calling_code": "687",
+    "code": "NC",
+    "name": "New Caledonia",
+    "ka_name": "ახალი კალედონია",
+    "ru_name": "Новая Каледония"
+  },
+  {
+    "calling_code": "64",
+    "code": "NZ",
+    "name": "New Zealand",
+    "ka_name": "ახალი ზელანდია",
+    "ru_name": "Новая Зеландия"
+  },
+  {
+    "calling_code": "505",
+    "code": "NI",
+    "name": "Nicaragua",
+    "ka_name": "ნიკარაგუა",
+    "ru_name": "Никарагуа"
+  },
+  {
+    "calling_code": "227",
+    "code": "NE",
+    "name": "Niger",
+    "ka_name": "ნიგერი",
+    "ru_name": "Нигер"
+  },
+  {
+    "calling_code": "234",
+    "code": "NG",
+    "name": "Nigeria",
+    "ka_name": "ნიგერია",
+    "ru_name": "Нигерия"
+  },
+  {
+    "calling_code": "683",
+    "code": "NU",
+    "name": "Niue",
+    "ka_name": "ნიუე",
+    "ru_name": "Ниуэ"
+  },
+  {
+    "calling_code": "672",
+    "code": "NF",
+    "name": "Norfolk Island",
+    "ka_name": "ნორფოლკი",
+    "ru_name": "Остров Норфолк"
+  },
+  {
+    "calling_code": "850",
+    "code": "KP",
+    "name": "North Korea",
+    "ka_name": "ჩრდილოეთი კორეა",
+    "ru_name": "КНДР"
+  },
+  {
+    "calling_code": "1",
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "ka_name": "ჩრდილოეთ მარიანას კუნძულები",
+    "ru_name": "Северные Марианские Острова"
+  },
+  {
+    "calling_code": "47",
+    "code": "NO",
+    "name": "Norway",
+    "ka_name": "ნორვეგია",
+    "ru_name": "Норвегия"
+  },
+  {
+    "calling_code": "968",
+    "code": "OM",
+    "name": "Oman",
+    "ka_name": "ომანი",
+    "ru_name": "Оман"
+  },
+  {
+    "calling_code": "92",
+    "code": "PK",
+    "name": "Pakistan",
+    "ka_name": "პაკისტანი",
+    "ru_name": "Пакистан"
+  },
+  {
+    "calling_code": "680",
+    "code": "PW",
+    "name": "Palau",
+    "ka_name": "პალაუ",
+    "ru_name": "Палау"
+  },
+  {
+    "calling_code": "970",
+    "code": "PS",
+    "name": "Palestine",
+    "ka_name": "პალესტინის ტერიტორიები, ოკუპირებული",
+    "ru_name": "Государство Палестина"
+  },
+  {
+    "calling_code": "507",
+    "code": "PA",
+    "name": "Panama",
+    "ka_name": "პანამა",
+    "ru_name": "Панама"
+  },
+  {
+    "calling_code": "675",
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "ka_name": "პაპუა-ახალი გვინეა",
+    "ru_name": "Папуа — Новая Гвинея"
+  },
+  {
+    "calling_code": "595",
+    "code": "PY",
+    "name": "Paraguay",
+    "ka_name": "პარაგვაი",
+    "ru_name": "Парагвай"
+  },
+  {
+    "calling_code": "51",
+    "code": "PE",
+    "name": "Peru",
+    "ka_name": "პერუ",
+    "ru_name": "Перу"
+  },
+  {
+    "calling_code": "63",
+    "code": "PH",
+    "name": "Philippines",
+    "ka_name": "ფილიპინები",
+    "ru_name": "Филиппины"
+  },
+  {
+    "calling_code": "48",
+    "code": "PL",
+    "name": "Poland",
+    "ka_name": "პოლონეთი",
+    "ru_name": "Польша"
+  },
+  {
+    "calling_code": "351",
+    "code": "PT",
+    "name": "Portugal",
+    "ka_name": "პორტუგალია",
+    "ru_name": "Португалия"
+  },
+  {
+    "calling_code": "1",
+    "code": "PR",
+    "name": "Puerto Rico",
+    "ka_name": "პუერტო-რიკო",
+    "ru_name": "Пуэрто-Рико"
+  },
+  {
+    "calling_code": "974",
+    "code": "QA",
+    "name": "Qatar",
+    "ka_name": "კატარი",
+    "ru_name": "Катар"
+  },
+  {
+    "calling_code": "242",
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "ka_name": "კონგო",
+    "ru_name": "Республика Конго"
+  },
+  {
+    "calling_code": "262",
+    "code": "RE",
+    "name": "Réunion",
+    "ka_name": "რეიუნიონი",
+    "ru_name": "Реюньон"
+  },
+  {
+    "calling_code": "40",
+    "code": "RO",
+    "name": "Romania",
+    "ka_name": "რუმინეთი",
+    "ru_name": "Румыния"
+  },
+  {
+    "calling_code": "7",
+    "code": "RU",
+    "name": "Russia",
+    "ka_name": "რუსეთი",
+    "ru_name": "Россия"
+  },
+  {
+    "calling_code": "250",
+    "code": "RW",
+    "name": "Rwanda",
+    "ka_name": "რუანდა",
+    "ru_name": "Руанда"
+  },
+  {
+    "calling_code": "590",
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "ka_name": "სენ-ბართელმი",
+    "ru_name": "Сен-Бартелеми"
+  },
+  {
+    "calling_code": "290",
+    "code": "SH",
+    "name": "Saint Helena",
+    "ka_name": "წმინდა ელენეს კუნძული",
+    "ru_name": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+  },
+  {
+    "calling_code": "1",
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "ka_name": "სენტ-კიტსი და ნევისი",
+    "ru_name": "Сент-Китс и Невис"
+  },
+  {
+    "calling_code": "590",
+    "code": "MF",
+    "name": "Saint Martin",
+    "ka_name": "წმინდა მარტინი (საფრანგეთის ნაწილი)",
+    "ru_name": "Сен-Мартен"
+  },
+  {
+    "calling_code": "508",
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "ka_name": "სენ-პიერი და მიკელონი",
+    "ru_name": "Сен-Пьер и Микелон"
+  },
+  {
+    "calling_code": "1",
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "ka_name": "სენტ-ვინსენტი და გრენადინები",
+    "ru_name": "Сент-Винсент и Гренадины"
+  },
+  {
+    "calling_code": "685",
+    "code": "WS",
+    "name": "Samoa",
+    "ka_name": "სამოა",
+    "ru_name": "Самоа"
+  },
+  {
+    "calling_code": "378",
+    "code": "SM",
+    "name": "San Marino",
+    "ka_name": "სან-მარინო",
+    "ru_name": "Сан-Марино"
+  },
+  {
+    "calling_code": "239",
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "ka_name": "სან-ტომე და პრინსიპი",
+    "ru_name": "Сан-Томе и Принсипи"
+  },
+  {
+    "calling_code": "966",
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "ka_name": "საუდის არაბეთი",
+    "ru_name": "Саудовская Аравия"
+  },
+  {
+    "calling_code": "221",
+    "code": "SN",
+    "name": "Senegal",
+    "ka_name": "სენეგალი",
+    "ru_name": "Сенегал"
+  },
+  {
+    "calling_code": "381",
+    "code": "RS",
+    "name": "Serbia",
+    "ka_name": "სერბეთი",
+    "ru_name": "Сербия"
+  },
+  {
+    "calling_code": "248",
+    "code": "SC",
+    "name": "Seychelles",
+    "ka_name": "სეიშელი",
+    "ru_name": "Сейшельские Острова"
+  },
+  {
+    "calling_code": "232",
+    "code": "SL",
+    "name": "Sierra Leone",
+    "ka_name": "სიერა-ლეონე",
+    "ru_name": "Сьерра-Леоне"
+  },
+  {
+    "calling_code": "65",
+    "code": "SG",
+    "name": "Singapore",
+    "ka_name": "სინგაპური",
+    "ru_name": "Сингапур"
+  },
+  {
+    "calling_code": "421",
+    "code": "SK",
+    "name": "Slovakia",
+    "ka_name": "სლოვაკეთი",
+    "ru_name": "Словакия"
+  },
+  {
+    "calling_code": "386",
+    "code": "SI",
+    "name": "Slovenia",
+    "ka_name": "სლოვენია",
+    "ru_name": "Словения"
+  },
+  {
+    "calling_code": "677",
+    "code": "SB",
+    "name": "Solomon Islands",
+    "ka_name": "სოლომონის კუნძულები",
+    "ru_name": "Соломоновы Острова"
+  },
+  {
+    "calling_code": "252",
+    "code": "SO",
+    "name": "Somalia",
+    "ka_name": "სომალი",
+    "ru_name": "Сомали"
+  },
+  {
+    "calling_code": "27",
+    "code": "ZA",
+    "name": "South Africa",
+    "ka_name": "სამხრეთ აფრიკის რესპუბლიკა",
+    "ru_name": "ЮАР"
+  },
+  {
+    "calling_code": "82",
+    "code": "KR",
+    "name": "South Korea",
+    "ka_name": "სამხრეთი კორეა",
+    "ru_name": "Республика Корея"
+  },
+  {
+    "calling_code": "34",
+    "code": "ES",
+    "name": "Spain",
+    "ka_name": "ესპანეთი",
+    "ru_name": "Испания"
+  },
+  {
+    "calling_code": "94",
+    "code": "LK",
+    "name": "Sri Lanka",
+    "ka_name": "შრი-ლანკა",
+    "ru_name": "Шри-Ланка"
+  },
+  {
+    "calling_code": "1",
+    "code": "LC",
+    "name": "St. Lucia",
+    "ka_name": "სენტ-ლუსია",
+    "ru_name": "Сент-Люсия"
+  },
+  {
+    "calling_code": "249",
+    "code": "SD",
+    "name": "Sudan",
+    "ka_name": "სუდანი",
+    "ru_name": "Судан"
+  },
+  {
+    "calling_code": "597",
+    "code": "SR",
+    "name": "Suriname",
+    "ka_name": "სურინამი",
+    "ru_name": "Суринам"
+  },
+  {
+    "calling_code": "268",
+    "code": "SZ",
+    "name": "Swaziland",
+    "ka_name": "ესვატინი",
+    "ru_name": "Эсватини"
+  },
+  {
+    "calling_code": "46",
+    "code": "SE",
+    "name": "Sweden",
+    "ka_name": "შვედეთი",
+    "ru_name": "Швеция"
+  },
+  {
+    "calling_code": "41",
+    "code": "CH",
+    "name": "Switzerland",
+    "ka_name": "შვეიცარია",
+    "ru_name": "Швейцария"
+  },
+  {
+    "calling_code": "963",
+    "code": "SY",
+    "name": "Syria",
+    "ka_name": "სირიის არაბთა რესპუბლიკა",
+    "ru_name": "Сирия"
+  },
+  {
+    "calling_code": "886",
+    "code": "TW",
+    "name": "Taiwan",
+    "ka_name": "ტაივანი",
+    "ru_name": "Китайская Республика"
+  },
+  {
+    "calling_code": "992",
+    "code": "TJ",
+    "name": "Tajikistan",
+    "ka_name": "ტაჯიკეთი",
+    "ru_name": "Таджикистан"
+  },
+  {
+    "calling_code": "255",
+    "code": "TZ",
+    "name": "Tanzania",
+    "ka_name": "ტანზანიის გაერთიანებული რესპუბლიკა",
+    "ru_name": "Танзания"
+  },
+  {
+    "calling_code": "66",
+    "code": "TH",
+    "name": "Thailand",
+    "ka_name": "ტაილანდი",
+    "ru_name": "Таиланд"
+  },
+  {
+    "calling_code": "1",
+    "code": "BS",
+    "name": "The Bahamas",
+    "ka_name": "ბაჰამის კუნძულები",
+    "ru_name": "Багамские Острова"
+  },
+  {
+    "calling_code": "220",
+    "code": "GM",
+    "name": "The Gambia",
+    "ka_name": "გამბია",
+    "ru_name": "Гамбия"
+  },
+  {
+    "calling_code": "670",
+    "code": "TL",
+    "name": "Timor-Leste",
+    "ka_name": "აღმოსავლეთი ტიმორი",
+    "ru_name": "Восточный Тимор"
+  },
+  {
+    "calling_code": "228",
+    "code": "TG",
+    "name": "Togo",
+    "ka_name": "ტოგო",
+    "ru_name": "Того"
+  },
+  {
+    "calling_code": "690",
+    "code": "TK",
+    "name": "Tokelau",
+    "ka_name": "ტოკელაუ",
+    "ru_name": "Токелау"
+  },
+  {
+    "calling_code": "676",
+    "code": "TO",
+    "name": "Tonga",
+    "ka_name": "ტონგა",
+    "ru_name": "Тонга"
+  },
+  {
+    "calling_code": "1",
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "ka_name": "ტრინიდადი და ტობაგო",
+    "ru_name": "Тринидад и Тобаго"
+  },
+  {
+    "calling_code": "216",
+    "code": "TN",
+    "name": "Tunisia",
+    "ka_name": "ტუნისი",
+    "ru_name": "Тунис"
+  },
+  {
+    "calling_code": "90",
+    "code": "TR",
+    "name": "Turkey",
+    "ka_name": "თურქეთი",
+    "ru_name": "Турция"
+  },
+  {
+    "calling_code": "993",
+    "code": "TM",
+    "name": "Turkmenistan",
+    "ka_name": "თურქმენეთი",
+    "ru_name": "Туркмения"
+  },
+  {
+    "calling_code": "1",
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "ka_name": "ტერქსისა და კაიკოსის კუნძულები",
+    "ru_name": "Теркс и Кайкос"
+  },
+  {
+    "calling_code": "688",
+    "code": "TV",
+    "name": "Tuvalu",
+    "ka_name": "ტუვალუ",
+    "ru_name": "Тувалу"
+  },
+  {
+    "calling_code": "256",
+    "code": "UG",
+    "name": "Uganda",
+    "ka_name": "უგანდა",
+    "ru_name": "Уганда"
+  },
+  {
+    "calling_code": "380",
+    "code": "UA",
+    "name": "Ukraine",
+    "ka_name": "უკრაინა",
+    "ru_name": "Украина"
+  },
+  {
+    "calling_code": "971",
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "ka_name": "არაბთა გაერთიანებული საამიროები",
+    "ru_name": "ОАЭ"
+  },
+  {
+    "calling_code": "44",
+    "code": "GB",
+    "name": "United Kingdom",
+    "ka_name": "გაერთიანებული სამეფო",
+    "ru_name": "Великобритания"
+  },
+  {
+    "calling_code": "1",
+    "code": "US",
+    "name": "United States",
+    "ka_name": "აშშ",
+    "ru_name": "США"
+  },
+  {
+    "calling_code": "598",
+    "code": "UY",
+    "name": "Uruguay",
+    "ka_name": "ურუგვაი",
+    "ru_name": "Уругвай"
+  },
+  {
+    "calling_code": "1",
+    "code": "VI",
+    "name": "US Virgin Islands",
+    "ka_name": "ვირჯინის კუნძულები (აშშ-ის)",
+    "ru_name": "Виргинские Острова (США)"
+  },
+  {
+    "calling_code": "998",
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "ka_name": "უზბეკეთი",
+    "ru_name": "Узбекистан"
+  },
+  {
+    "calling_code": "678",
+    "code": "VU",
+    "name": "Vanuatu",
+    "ka_name": "ვანუატუ",
+    "ru_name": "Вануату"
+  },
+  {
+    "calling_code": "39",
+    "code": "VA",
+    "name": "Vatican City",
+    "ka_name": "ვატიკანი (წმინდა საყდარი)",
+    "ru_name": "Ватикан"
+  },
+  {
+    "calling_code": "58",
+    "code": "VE",
+    "name": "Venezuela",
+    "ka_name": "ვენესუელა",
+    "ru_name": "Венесуэла"
+  },
+  {
+    "calling_code": "84",
+    "code": "VN",
+    "name": "Vietnam",
+    "ka_name": "ვიეტნამი",
+    "ru_name": "Вьетнам"
+  },
+  {
+    "calling_code": "681",
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "ka_name": "უოლისი და ფუტუნა",
+    "ru_name": "Уоллис и Футуна"
+  },
+  {
+    "calling_code": "967",
+    "code": "YE",
+    "name": "Yemen",
+    "ka_name": "იემენი",
+    "ru_name": "Йемен"
+  },
+  {
+    "calling_code": "260",
+    "code": "ZM",
+    "name": "Zambia",
+    "ka_name": "ზამბია",
+    "ru_name": "Замбия"
+  },
+  {
+    "calling_code": "263",
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "ka_name": "ზიმბაბვე",
+    "ru_name": "Зимбабве"
+  },
+  {
+    "calling_code": "93",
+    "code": "AF",
+    "name": "Afghanistan",
+    "ka_name": "ავღანეთი",
+    "ru_name": "Афганистан"
+  }
+]
