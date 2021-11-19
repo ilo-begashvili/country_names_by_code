@@ -26,12 +26,6 @@ Country List By calling codes &amp; Country codes for Georgia
     "ru_name": "Алжир"
   },
   
-  {
-    "calling_code": "1",
-    "code": "AS",
-    "name": "American Samoa",
-    "ka_name": "ამერიკის სამოა",
-    "ru_name": "Американское Самоа"
-  },
+
   
 ....
